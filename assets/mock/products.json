@@ -1,0 +1,26 @@
+[
+  {
+    "name": "T-Shirt",
+    "price": 350,
+    "category": "Clothing",
+    "image": "assets/images/smiley.png"
+  },
+  {
+    "name": "Hat",
+    "price": 250,
+    "category": "Accessories",
+    "image": "assets/images/smiley.png"
+  },
+  {
+    "name": "Watch",
+    "price": 850,
+    "category": "Electronics",
+    "image": "assets/images/smiley.png"
+  },
+  {
+    "name": "Bag",
+    "price": 640,
+    "category": "Accessories",
+    "image": "assets/images/smiley.png"
+  }
+]
